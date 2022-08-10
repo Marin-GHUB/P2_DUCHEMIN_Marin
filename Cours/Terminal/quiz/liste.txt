@@ -1,0 +1,10 @@
+total 36
+drwx------ 4 pc pc 4096 déc.  21 08:48 .
+drwxr-xr-x 9 pc pc 4096 déc.  21 08:46 ..
+drwx------ 4 pc pc 4096 juin  27  2019 2019
+-rw-rw-r-- 1 pc pc   50 juin  27  2019 fichier.txt
+-rw-rw-r-- 1 pc pc 7578 mai    9  2019 image.png
+-rw-r--r-- 1 pc pc    0 déc.  21 08:48 liste.txt
+-rw-rw-r-- 1 pc pc 5907 mai   16  2019 lorem.txt
+drwx------ 2 pc pc 4096 juin  28  2019 test
+-rw-rw-r-- 1 pc pc    0 juin  28  2019 test2
